@@ -1,4 +1,8 @@
 # C.L.I.M.O.S.
-Climate Monitoring System - A live working project on IoT &amp; ML which predicts or forecasts upcoming weather for the next five days using some ML algorithms and live reading of temperature by various sensors.
+Climate Monitoring System - A live working project on IoT &amp; ML which predicts or forecasts upcoming weather for the next five days using historical data by some ML algorithms and live reading of temperature by various sensors.
 
-I personally worked on the IoT part in this project and my mate helped with all the ML stuff
+I personally worked on the IoT part in this project and my friend helped with all the ML stuff.
+
+Mentioning below few websites that helped me with most of IoT related problems
+* https://newbiely.com/tutorials/esp8266/esp8266-lcd 
+* https://techatronic.com/iot-weather-monitoring-system/ 
